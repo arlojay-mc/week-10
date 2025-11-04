@@ -1,6 +1,6 @@
 """
 Author: Arlo Virta
-Date: 03-11-2025
+Date: 2025-11-03
 Description: Formats a title into the proper case
 """
 
