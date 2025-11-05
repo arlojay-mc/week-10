@@ -4,7 +4,7 @@ Date: 2025-11-03
 Description: Formats a title into the proper case
 """
 
-AVOID_CAPITALIZING = [ "the", "a", "an", "of" ]
+AVOID_CAPITALIZING = [ "the", "a", "an", "and", "of" ]
 
 def processing(title = ""):
     title_parts = title.lower().strip().split(" ")      # "  THE THING " -> [ "the", "thing" ]
